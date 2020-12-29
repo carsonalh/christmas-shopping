@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-38,0)">
+        <g transform="matrix(0.2321,0,0,0.335269,46.9707,8.40195)">
+            <g id="Search">
+                <rect id="Search_24x24pt" x="-38.65" y="-25.06" width="206.807" height="143.169" style="fill:none;"/>
+                <g id="Search_24x24pt1" serif:id="Search_24x24pt">
+                    <g transform="matrix(4.30848,0,0,2.98268,-205.724,-27.3803)">
+                        <path d="M65.976,31.087C61.019,34.568 54.124,34.094 49.695,29.666C44.736,24.707 44.736,16.654 49.695,11.695C54.654,6.736 62.707,6.736 67.666,11.695C72.094,16.124 72.568,23.019 69.087,27.976L79.58,38.468L76.468,41.58L65.976,31.087ZM52.807,14.807C56.048,11.565 61.312,11.565 64.554,14.807C67.796,18.048 67.796,23.312 64.554,26.554C61.312,29.796 56.048,29.796 52.807,26.554C49.565,23.312 49.565,18.048 52.807,14.807Z" style="fill:rgb(156,141,141);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
